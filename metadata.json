@@ -1,0 +1,6 @@
+{
+  "name": "Tank Janglari",
+  "description": "Bir klaviaturada ikki kishi o'ynashi mumkin bo'lgan qiziqarli, dinamik 2D tank jangi o'yini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
